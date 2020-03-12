@@ -14,7 +14,7 @@
  *
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
-package org.pentaho.metastore.stores.xml;
+package test.java.org.pentaho.metastore.stores.xml;
 
 public class AutomaticXmlMetaStoreCacheTest extends XmlMetaStoreCacheTestBase {
 

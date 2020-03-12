@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2019 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.api;
+package main.java.org.pentaho.metastore.api;
 
 import java.util.List;
 

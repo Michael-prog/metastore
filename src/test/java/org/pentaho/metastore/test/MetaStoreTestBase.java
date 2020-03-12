@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.test;
+package test.java.org.pentaho.metastore.test;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.api.exceptions;
+package main.org.pentaho.metastore.api.exceptions;
 
 /**
  * This exception is thrown in case a namespace is created in a metadata store when it already exists.

@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2019 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.test;
+package test.java.org.pentaho.metastore.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

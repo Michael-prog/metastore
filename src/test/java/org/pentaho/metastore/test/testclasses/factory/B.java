@@ -14,7 +14,7 @@
  *
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
-package org.pentaho.metastore.test.testclasses.factory;
+package test.java.org.pentaho.metastore.test.testclasses.factory;
 
 import org.pentaho.metastore.persist.MetaStoreAttribute;
 import org.pentaho.metastore.persist.MetaStoreElementType;

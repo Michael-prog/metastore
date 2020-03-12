@@ -14,7 +14,7 @@
  *
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
-package org.pentaho.metastore.stores.xml;
+package test.java.org.pentaho.metastore.stores.xml;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;

@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.api.exceptions;
+package main.org.pentaho.metastore.api.exceptions;
 
 /**
  * This exception is thrown in case of a general problem with the underlying store.

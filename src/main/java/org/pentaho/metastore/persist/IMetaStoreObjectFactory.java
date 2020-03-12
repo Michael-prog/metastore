@@ -1,4 +1,4 @@
-package org.pentaho.metastore.persist;
+package main.java.org.pentaho.metastore.persist;
 
 import java.util.Map;
 

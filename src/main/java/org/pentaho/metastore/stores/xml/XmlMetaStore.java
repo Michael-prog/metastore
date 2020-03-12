@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2019 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.stores.xml;
+package main.org.pentaho.metastore.stores.xml;
 
 import java.io.File;
 import java.io.FileFilter;

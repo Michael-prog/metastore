@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2019 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.stores.delegate;
+package main.org.pentaho.metastore.stores.delegate;
 
 import java.util.ArrayList;
 import java.util.Arrays;

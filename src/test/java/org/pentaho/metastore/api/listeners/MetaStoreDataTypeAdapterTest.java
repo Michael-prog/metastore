@@ -15,7 +15,7 @@
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
 
-package org.pentaho.metastore.api.listeners;
+package test.java.org.pentaho.metastore.api.listeners;
 
 import junit.framework.TestCase;
 import org.pentaho.metastore.api.IMetaStoreElementType;

@@ -1,4 +1,4 @@
-package org.pentaho.metastore.stores.xml;
+package main.org.pentaho.metastore.stores.xml;
 
 import java.util.Collections;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package org.pentaho.metastore.persist;
+package main.org.pentaho.metastore.persist;
 
 public @interface MetaStoreElement {
   MetaStoreElementType elementType();

@@ -14,7 +14,7 @@
  *
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
-package org.pentaho.metastore.api.exceptions;
+package test.java.org.pentaho.metastore.api.exceptions;
 
 import junit.framework.TestCase;
 

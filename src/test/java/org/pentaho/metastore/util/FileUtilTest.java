@@ -14,7 +14,7 @@
  *
  * Copyright (c) 2002-2017 Hitachi Vantara..  All rights reserved.
  */
-package org.pentaho.metastore.util;
+package test.java.org.pentaho.metastore.util;
 
 import junit.framework.TestCase;
 
